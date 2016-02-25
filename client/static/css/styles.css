@@ -1,7 +1,14 @@
+body {
+    background-color: #d2dcec;
+}
+
+
 .box {
-    border: 1px solid black;
+
     margin: 5px;
     padding: 5px;
+    background-color: #bccbe5;
+    border-radius: 5px;
 }
 
 img {
@@ -13,4 +20,8 @@ img {
     color: red;
     font-size: 10px;
     margin-bottom: 5px;
+}
+
+h1 {
+    color: #3367bd;
 }
